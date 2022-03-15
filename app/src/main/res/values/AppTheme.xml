@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">#fdd</item>
+    <item name="colorPrimaryDark">#456</item>
+    <item name="colorAccent">#fdf</item>
+    </style>
+    <style name="FruitActivityTheme" parent="AppTheme">
+<!--        设置为透明色-->
+        <item name="android:statusBarColor" >@android:color/transparent</item>
+    </style>
+</resources>
